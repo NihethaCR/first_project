@@ -1,0 +1,35 @@
+{
+    "products": [
+        {
+            "product_id": 45,
+            "name": "Kurta",
+            "price": 450,
+            "quantity": 5
+        },
+        {
+            "product_id": 50,
+            "name": "Shirt",
+            "price": 200,
+            "quantity": 3
+        },
+        {
+            "product_id": 51,
+            "name": "Kurti Set",
+            "price": 450,
+            "quantity": 2
+        },
+        {
+            "product_id": 52,
+            "name": "Kurti",
+            "price": 450,
+            "quantity": 2
+        }
+    ],
+    "users": [
+        {
+            "username": "personal",
+            "password": "hello"
+        }
+    ],
+    "bookings": []
+}
